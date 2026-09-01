@@ -72,6 +72,17 @@ El ejercicio de estos derechos se regirá por lo dispuesto en la ley.
 
 
 
+TEMA 1.4 POSIBLES PROPUESTAS DE REGULACION DE LA IA 
+
+1. Suplantacion de identidad 
+2. Datos que se usan para entrenar el modelo
+3. Ciberataque
+4. Restricciones en temas de salud
+5. Creacion de contenido Ilegal (obseno)
+6. Derechos de autor
+7. Regulacion en suplantacio de profesiones
+
+
 
 
 
