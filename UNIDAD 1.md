@@ -93,4 +93,18 @@ TEMA 1.4 POSIBLES PROPUESTAS DE REGULACION DE LA IA
 ![[Pasted image 20260909104448.png]]
 
 
+ACTIVIDAD 1.5
+
+* Riesgo inaceptable
+* Alto riesgo
+* Riesgo limitado
+* Riesgo mínimo
+* Filtro de currículos $\rightarrow$ Alto riesgo
+* Apoyo al diagnóstico $\rightarrow$ Alto riesgo
+* Chat bot de atención $\rightarrow$ Riesgo limitado
+* Vigilancia de exámenes $\rightarrow$ Alto riesgo
+* Generador de rostros $\rightarrow$ Riesgo limitado
+* Scoring crediticio $\rightarrow$ Alto riesgo
+
+
 
